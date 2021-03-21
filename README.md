@@ -1,2 +1,2 @@
 # url-shortener 
-why bother others, when you can self-host it!
+why depend on others with your data, when you can self-host it!
